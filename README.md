@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     :wave: Hey! Welcome to my profile
     <br>I am a programmer :P.
     <br>
-    <img src="https://github.com/shizhengchao/shizhengchao/blob/master/loading/loading.jpg" width="150px" height="150px" align="center">
+    <img src="https://github.com/shizhengchao/shizhengchao/blob/main/loading/Hiso.jpg" width="150px" height="150px" align="center">
     <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shizhengchao&&show_icons=true&&theme=tokyonight" />
   </samp>
